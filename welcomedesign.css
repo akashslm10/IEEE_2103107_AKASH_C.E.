@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #333C83;
+}
+
+.messi_image{
+  border-radius: 50%;
+  height: 160px;
+  width: 160px;
+}
+.top-container {
+  background-color: #E3FDFD;
+  /*  C1F8CF*/
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #4FD3C4;
+
+}
+
+.bottom-container {
+  background-color: #488FB1;
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud{
+  position:absolute;
+}
